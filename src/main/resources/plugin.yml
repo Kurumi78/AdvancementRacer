@@ -1,0 +1,7 @@
+name: AdvancementRacer
+version: '1.0'
+main: com.gmail.kurumitk78.advancementRacer.AdvancementRacer
+api-version: '1.21'
+prefix: ADRC
+authors: [ Kurumi78 ]
+description: Advancement races
